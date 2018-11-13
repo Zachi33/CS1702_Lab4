@@ -15,6 +15,7 @@ public class CS1702_Lab4 {
 //		finch_modified();
 		/*/ 
 		 * I am just testing git hub XD
+		 * lol it works really amazing! ^^
 		 */
 		
 		
